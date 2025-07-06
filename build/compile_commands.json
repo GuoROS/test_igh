@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/gbb/test_igh/build",
+  "command": "/usr/bin/c++  -I/home/gbb/ec_igh/ethercat/include  -o CMakeFiles/ethercat_control.dir/src/main.cpp.o -c /home/gbb/test_igh/src/main.cpp",
+  "file": "/home/gbb/test_igh/src/main.cpp"
+}
+]

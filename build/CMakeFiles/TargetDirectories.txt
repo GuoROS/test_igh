@@ -1,0 +1,3 @@
+/home/gbb/test_igh/build/CMakeFiles/ethercat_control.dir
+/home/gbb/test_igh/build/CMakeFiles/edit_cache.dir
+/home/gbb/test_igh/build/CMakeFiles/rebuild_cache.dir
